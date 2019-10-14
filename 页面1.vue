@@ -1,3 +1,4 @@
 template
+  pug
 script
 style
